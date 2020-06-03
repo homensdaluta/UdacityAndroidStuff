@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">Simao</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio_string">This is an online generator which converts normal text letters into tiny letters which you can copy and paste into facebook, twitter, instagram and other social media posts and status updates.
+        \n\nIt essentially allows you to make text smaller.
+        \n\n The text looks so small because three special unicode alphabets are used.
+       \n\nThis is why you can copy and paste it! You wouldn\'t be able to do that if it were a tiny font.
+        \n\nThis is an online generator which converts normal text letters into tiny letters which you can copy and paste into facebook, twitter, instagram and other social media posts and status updates.
+        \n\nIt essentially allows you to make text smaller.
+        \n\n The text looks so small because three special unicode alphabets are used.
+       \n\nThis is why you can copy and paste it! You wouldn\'t be able to do that if it were a tiny font.</string>
+    <string name="hint_nickname">Add a nickname</string>
+    <string name="done">Done</string>
+</resources>
